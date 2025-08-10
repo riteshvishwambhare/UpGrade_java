@@ -16,6 +16,7 @@ public class Tax {
             tax = (int) (amount * 0.3);
         }
         sc.close();
-        System.out.println("Your tax is: " + tax);
+        System.out.println("Your tax is a : " + tax);\
+        
     }
 }
